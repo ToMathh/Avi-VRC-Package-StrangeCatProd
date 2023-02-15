@@ -15,7 +15,29 @@
     "url": "https://github.com/ToMathh"
   },
   "repository": {
-    "url": "git+https://github.com/ToMathh/Base-Package-3D-Tools-StrangeCatProd",
+    "url": "git+https://github.com/ToMathh/Base-Package-3D-Tools-StrangeCatProd#1.0.0",
+    "type": "git",
+    "revision": ""
+  }
+}
+{
+  "name": "com.strangecat.basetools",
+  "displayName": "Base Tools StrangeCat",
+  "description": "StrangeCatProd Start 3D Project",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "relatedPackages": {},
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "author": {
+    "name": "StrangeCat",
+    "email": "lilianmalmezac@gmail.com",
+    "url": "https://github.com/ToMathh"
+  },
+  "repository": {
+    "url": "git+https://github.com/ToMathh/Base-Package-3D-Tools-StrangeCatProd#1.0.1",
     "type": "git",
     "revision": ""
   }
