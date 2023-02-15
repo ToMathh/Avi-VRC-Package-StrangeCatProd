@@ -9,8 +9,13 @@
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
   },
+  "author": {
+    "name": "StrangeCat",
+    "email": "lilianmalmezac@gmail.com",
+    "url": "https://github.com/ToMathh"
+  },
   "repository": {
-    "url": "https://github.com/ToMathh/Base-Package-3D-Tools-StrangeCatProd.git",
+    "url": "git+https://github.com/ToMathh/Base-Package-3D-Tools-StrangeCatProd",
     "type": "git",
     "revision": ""
   }
