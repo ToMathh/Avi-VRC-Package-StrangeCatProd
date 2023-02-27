@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SilentShaderPosterDemo
+  m_Shader: {fileID: 4800000, guid: 67db136c26f8ce64f9e4276988d5364d, type: 3}
+  m_ShaderKeywords: _SPECGLOSSMAP
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer0:
+        m_Texture: {fileID: 2800000, guid: 1001bc1682906b14c83f7d9978581f0e, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Layer1:
+        m_Texture: {fileID: 2800000, guid: 3c7933e1622c77645a609338e957d89d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer2:
+        m_Texture: {fileID: 2800000, guid: be4d260bc8ee478449575b6404d3fa3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer3:
+        m_Texture: {fileID: 2800000, guid: d7c2e2d77b6232b4ca54ae2ffd6c9dd2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer4:
+        m_Texture: {fileID: 2800000, guid: 6adb10de21f4c5649b62ddb02951e99e, type: 3}
+        m_Scale: {x: 0, y: 0.25}
+        m_Offset: {x: 0, y: -0.25}
+    - _Layer5:
+        m_Texture: {fileID: 2800000, guid: fb1ecaaa458c2c245bc1d5b7215290df, type: 3}
+        m_Scale: {x: 0.9, y: 0.9}
+        m_Offset: {x: 0, y: -0.02}
+    - _Layer6:
+        m_Texture: {fileID: 2800000, guid: f599477a03e191042835ca69381b3022, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 4396c01667b0e334a9d594a747da74de, type: 3}
+        m_Scale: {x: 0.8, y: 1.1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlurLevel: 4
+    - _BumpMapNormalScale: 1
+    - _BumpMapScale: 1
+    - _DebugMode: 0
+    - _EmissionStrength: 1
+    - _FresnelPower: 2
+    - _FresnelScale: 3
+    - _Layer0Height: 0
+    - _Layer1Cutoff: 0
+    - _Layer1Height: 0.702
+    - _Layer2Cutoff: 0
+    - _Layer2Height: 0.66
+    - _Layer3Cutoff: 0
+    - _Layer3Height: 0.723
+    - _Layer4Cutoff: 1
+    - _Layer4Height: 0.768
+    - _Layer5Cutoff: 0
+    - _Layer5Height: 0.877
+    - _Layer6Cutoff: 1
+    - _Layer6Height: 1
+    - _Metallic: 0
+    - _Occlusion: 0.25
+    - _ParallaxScale: 0.783
+    - _SkipLayers1: 0
+    - _SkipLayers2: 0
+    - _Smoothness: 1
+    - _UseBumpMap: 0
+    - _UseSpecGlossMap: 1
+    - __dirty: 0
+    m_Colors: []

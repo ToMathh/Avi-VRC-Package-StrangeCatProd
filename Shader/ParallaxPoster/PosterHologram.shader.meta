@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67db136c26f8ce64f9e4276988d5364d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Layer0: {fileID: 2800000, guid: 1001bc1682906b14c83f7d9978581f0e, type: 3}
+  - _Layer1: {fileID: 2800000, guid: 3c7933e1622c77645a609338e957d89d, type: 3}
+  - _Layer2: {fileID: 2800000, guid: be4d260bc8ee478449575b6404d3fa3c, type: 3}
+  - _Layer3: {fileID: 2800000, guid: d7c2e2d77b6232b4ca54ae2ffd6c9dd2, type: 3}
+  - _Layer4: {fileID: 2800000, guid: 6adb10de21f4c5649b62ddb02951e99e, type: 3}
+  - _Layer5: {fileID: 2800000, guid: c0d00fb42bd1b6a4b95c4ce23e4dfe52, type: 3}
+  - _Layer6: {fileID: 2800000, guid: f599477a03e191042835ca69381b3022, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

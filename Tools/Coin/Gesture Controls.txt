@@ -1,0 +1,8 @@
+•	Toggle it on with the button you made
+•	Close your hand with a fist to move the coin to your thumb
+•	Thumbs up to flick it up, it will land on either heads or tails randomly
+•	Close your hand again to move it up to be ready to be flicked
+•	Point with your finger to flick it to the other hand
+•	Open *both* hands to drop it in world
+•	Close hand to grab it again
+•	Rocker gesture to throw it away (it will toggle itself off after this)

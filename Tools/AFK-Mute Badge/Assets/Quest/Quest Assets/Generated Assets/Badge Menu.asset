@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Badge Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Automatic Mute/AFK
+    icon: {fileID: 2800000, guid: 9a731bde6da679c4baa23c292889320b, type: 3}
+    type: 102
+    parameter:
+      name: AFKMuteBadge_AFK Mute
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Auto AFK
+    icon: {fileID: 2800000, guid: d8887918fe3d1ba478a37c2d47641a62, type: 3}
+    type: 102
+    parameter:
+      name: AFKMuteBadge_Auto AFK
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Auto Mute
+    icon: {fileID: 2800000, guid: 31a515c310682b54facca2b1859d8cd5, type: 3}
+    type: 102
+    parameter:
+      name: AFKMuteBadge_Auto Mute
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Always on
+    icon: {fileID: 2800000, guid: fa0d5a8ed96d2fd45b1d7233a259dfc9, type: 3}
+    type: 102
+    parameter:
+      name: AFKMuteBadge_AFK Mute On
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

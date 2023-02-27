@@ -1,0 +1,6 @@
+My assets come with write defaults turned off.
+But if your avatar is made with write defaults on, you may need to turn it off for my asset as well, so that it won't negatively affect your gesture controls (gestures can get stuck).
+
+You can either go in and do it manually in the layer animations by clicking the blocks, and ticking write defaults on, on all of them.
+
+or use avatar 3.0 manager to turn them on.
